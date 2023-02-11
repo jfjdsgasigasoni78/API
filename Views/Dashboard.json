@@ -1,0 +1,19 @@
+{
+    "_fortnitePathSelectorHCC": {
+        "Header":"Fortnite Path Selector",
+        "_fortnitePathSelectorText": {
+            "PlaceHolderText":"",
+            "bEnabled":true,
+            "bReadOnly":false
+        }
+    },
+    "_fortniteNameSelectorHCC": {
+        "Header":"Fortnite Username Selector",
+        "_fortniteNameSelectorText": {
+            "PlaceHolderText":"",
+            "bEnabled":true,
+            "bReadOnly":false
+        }
+    },
+    "_launchButtonText":"Iniciar Fortnite!"
+}
