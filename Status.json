@@ -1,0 +1,16 @@
+{
+    "Version":"1.0.0",
+    "Discord":"https://discord.com/invite/7JdcFq2M7C",
+    "DownloadLink":"",
+    "DownloadDirectLink":"",
+    "Warning":"false",
+    "Downtime":"false",
+    "WarningInfo":{
+    "WarningMessage":"Actualmente hay un error con el launcher que probablemente se solucione mañana.",
+        "WarningHeader":"Please Read:"
+    },
+    "DowntimeInfo":{
+        "DowntimeMessage":"El launcher está actualmente inactivo! Los desarroyadores están buscando un arreglo para el error.",
+        "DowntimeHeader":"Mantenimiento:"
+    }
+}
