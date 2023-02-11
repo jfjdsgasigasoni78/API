@@ -1,5 +1,5 @@
 {
-    "totalFiles":"8",
+    "totalFiles":"7",
     "0": {
         "bShouldDownload":"true",
         "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1036279117613637762/FortniteServer.zip",
@@ -12,9 +12,9 @@
         "fileName":"Console.dll"
     },
     "2": {
-        "bShouldDownload":"false",
-        "url":"https://cdn.ezfn.dev/Cranium.dll",
-        "fileName":"Cranium.dll"
+        "bShouldDownload":"true",
+        "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1073918951257546753/craniumv2.dll",
+        "fileName":"craniumv2.dll"
     },
     "3": {
         "bShouldDownload":"true",
@@ -35,11 +35,6 @@
         "bShouldDownload":"true",
         "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1017078892206510091/FortniteLauncher.exe",
         "fileName":"FortniteLauncher.exe"
-    },
-    "7": {
-        "bShouldDownload":"true",
-        "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1073918951257546753/craniumv2.dll",
-        "fileName":"craniumv2.dll"
     },
 
     "NodeJS":""
