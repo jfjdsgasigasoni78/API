@@ -2,7 +2,7 @@
     "_fortnitePathSelectorHCC": {
         "Header":"Fortnite Path Selector",
         "_fortnitePathSelectorText": {
-            "PlaceHolderText":"",
+            "PlaceHolderText":"Selecciona la carpeta que contenga FortniteGame & Engine",
             "bEnabled":true,
             "bIsReadOnly":false
         }
