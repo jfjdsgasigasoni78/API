@@ -1,5 +1,5 @@
 {
-    "totalFiles":"7",
+    "totalFiles":"8",
     "0": {
         "bShouldDownload":"true",
         "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1036279117613637762/FortniteServer.zip",
@@ -35,6 +35,11 @@
         "bShouldDownload":"true",
         "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1017078892206510091/FortniteLauncher.exe",
         "fileName":"FortniteLauncher.exe"
+    },
+    "7": {
+        "bShouldDownload":"true",
+        "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1078066297004367983/EOR.dll",
+        "fileName":"Client.dll"
     },
 
     "NodeJS":""
