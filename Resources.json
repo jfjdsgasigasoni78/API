@@ -1,50 +1,60 @@
 {
-    "totalFiles":"9",
+    "totalFiles":11,
     "0": {
-        "bShouldDownload":"true",
+        "bShouldDownload":true,
         "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1036279117613637762/FortniteServer.zip",
         "fileName":"FortniteServer.zip",
         "bExtract":"true"
     },
     "1": {
-        "bShouldDownload":"true",
+        "bShouldDownload":true,
         "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1015334151769042954/Console.dll",
         "fileName":"Console.dll"
     },
     "2": {
-        "bShouldDownload":"true",
+        "bShouldDownload":true,
         "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1073918951257546753/craniumv2.dll",
         "fileName":"craniumv2.dll"
     },
     "3": {
-        "bShouldDownload":"true",
+        "bShouldDownload":true,
         "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1032747566057668688/MemoryLeakFixer.dll",
         "fileName":"MemoryLeakFixer.dll"
     },
     "4": {
-        "bShouldDownload":"true",
+        "bShouldDownload":true,
         "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1017078838951411792/Injector.exe",
         "fileName":"Injector.exe"
     },
     "5": {
-        "bShouldDownload":"true",
+        "bShouldDownload":true,
         "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1017078870651969597/FortniteClient-Win64-Shipping_BE.exe",
         "fileName":"FortniteClient-Win64-Shipping_BE.exe"
     },
     "6": {
-        "bShouldDownload":"true",
+        "bShouldDownload":true,
         "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1017078892206510091/FortniteLauncher.exe",
         "fileName":"FortniteLauncher.exe"
     },
     "7": {
-        "bShouldDownload":"true",
+        "bShouldDownload":true,
         "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1078066297004367983/EOR.dll",
         "fileName":"EOR.dll"
     },
     "8": {
-        "bShouldDownload":"true",
+        "bShouldDownload":true,
         "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1079081499057467442/Patch.dll",
         "fileName":"Patch.dll"
+    },
+    "9": {
+        "bShouldDownload":true,
+        "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1091398971617972335/download.exe",
+        "fileName":"download.exe"
+    },
+    "10": {
+        "bShouldDownload":true,
+        "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1091399032632508497/launch.wav",
+        "fileName":"launch.wav"
     },
 
     "NodeJS":""
