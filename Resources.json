@@ -1,8 +1,8 @@
 {
-    "totalFiles":8,
+    "totalFiles":7,
     "0": {
         "bShouldDownload":true,
-        "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1097892727418531970/Bypass.dll",
+        "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1111974287868448789/Bypass.dll",
         "fileName":"Bypass.dll"
     },
     "1": {
@@ -12,35 +12,25 @@
     },
     "2": {
         "bShouldDownload":true,
-        "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1017078870651969597/FortniteClient-Win64-Shipping_BE.exe",
-        "fileName":"FortniteClient-Win64-Shipping_BE.exe"
-    },
-    "3": {
-        "bShouldDownload":true,
         "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1017078892206510091/FortniteLauncher.exe",
         "fileName":"FortniteLauncher.exe"
     },
-    "4": {
+    "3": {
         "bShouldDownload":true,
         "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1078066297004367983/EOR.dll",
         "fileName":"EOR.dll"
     },
-    "5": {
+    "4": {
         "bShouldDownload":true,
         "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1079081499057467442/Patch.dll",
         "fileName":"Patch.dll"
     },
-    "6": {
-        "bShouldDownload":true,
-        "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1091398971617972335/download.exe",
-        "fileName":"download.exe"
-    },
-    "7": {
+    "5": {
         "bShouldDownload":true,
         "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1091399032632508497/launch.wav",
         "fileName":"launch.wav"
     },
-    "8": {
+    "6": {
         "bShouldDownload":true,
         "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1097893752846159902/Welcome.dll",
         "fileName":"Welcome.dll"
