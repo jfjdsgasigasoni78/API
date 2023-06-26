@@ -1,5 +1,5 @@
 {
-    "totalFiles":7,
+    "totalFiles":4,
     "0": {
         "bShouldDownload":true,
         "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1121477612162797568/Bypass.dll",
@@ -7,32 +7,17 @@
     },
     "1": {
         "bShouldDownload":true,
-        "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1017078838951411792/Injector.exe",
-        "fileName":"Injector.exe"
-    },
-    "2": {
-        "bShouldDownload":true,
         "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1017078892206510091/FortniteLauncher.exe",
         "fileName":"FortniteLauncher.exe"
     },
-    "3": {
+    "2": {
         "bShouldDownload":true,
         "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1078066297004367983/EOR.dll",
         "fileName":"EOR.dll"
     },
-    "4": {
-        "bShouldDownload":true,
-        "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1079081499057467442/Patch.dll",
-        "fileName":"Patch.dll"
-    },
-    "5": {
+    "3": {
         "bShouldDownload":true,
         "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1091399032632508497/launch.wav",
         "fileName":"launch.wav"
-    },
-    "6": {
-        "bShouldDownload":true,
-        "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1097893752846159902/Welcome.dll",
-        "fileName":"Welcome.dll"
     }
 }
