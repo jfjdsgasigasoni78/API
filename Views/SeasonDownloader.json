@@ -1,4 +1,5 @@
 {
+    "tempDownloadPath": "https://cdn.fnbuilds.services/10.40.rar",
     "_downloadSeasonButton": {
         "allowDownloadFromLauncher":false,
         "_downloadSeasonButtonText":"Download 10.40",
