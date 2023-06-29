@@ -1,6 +1,6 @@
 {
     "_downloadSeasonButton": {
-        "allowDownloadFromLauncher":true,
+        "allowDownloadFromLauncher":false,
         "_downloadSeasonButtonText":"Download 10.40",
         "_alreadyHasSeasonInstalledText":"Actualmente, ya tienes descargada la Season 10.40!",
         "_seasonFileCorruptedMsg":"Actualmente, tienes la temporada, pero algunos archivos están dañados.\n\nQuieres volver a descargar la temporada?"
