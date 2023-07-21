@@ -1,21 +1,16 @@
 {
-    "totalFiles":4,
+    "totalFiles":3,
     "0": {
-        "bShouldDownload":true,
-        "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1123338383738019960/Bypass.dll",
-        "fileName":"Bypass.dll"
-    },
-    "1": {
         "bShouldDownload":true,
         "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1017078892206510091/FortniteLauncher.exe",
         "fileName":"FortniteLauncher.exe"
     },
-    "2": {
+    "1": {
         "bShouldDownload":true,
         "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1078066297004367983/EOR.dll",
         "fileName":"EOR.dll"
     },
-    "3": {
+    "2": {
         "bShouldDownload":true,
         "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1091399032632508497/launch.wav",
         "fileName":"launch.wav"
