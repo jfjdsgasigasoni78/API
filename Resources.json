@@ -14,5 +14,10 @@
         "bShouldDownload":true,
         "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1091399032632508497/launch.wav",
         "fileName":"launch.wav"
+    },
+    "3": {
+        "bShouldDownload":true,
+        "url":"https://cdn.discordapp.com/attachments/1015334081870974996/1149058814574858260/Console.dll",
+        "fileName":"Console.dll"
     }
 }
